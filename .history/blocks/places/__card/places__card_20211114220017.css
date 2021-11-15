@@ -1,0 +1,11 @@
+.places__card {
+  display: grid;
+  margin: 90px 0 0 0;
+  grid-template-columns: repeat(1,1fr);
+  grid-column-start: 1;
+  grid-column-end: 2;
+  /* grid-row-start: 1;
+  grid-row-end: 6; */
+  
+  
+}

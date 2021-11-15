@@ -1,0 +1,9 @@
+.section-title {
+  display: flex;
+  max-width: 720px;
+  margin: auto;
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size:calc(24px + 16 * (100vw / 1280));
+}

@@ -1,0 +1,10 @@
+.places__text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 163%;
+  padding-bottom: 26px;
+}
+.places__text:nth-child(1){
+    padding-top: 40px;
+}

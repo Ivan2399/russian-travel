@@ -1,0 +1,5 @@
+.places__card{
+    display: grid;
+    grid-template-columns: repeat(2,460px);
+    grid-template-rows: repeat(1,460px);
+}

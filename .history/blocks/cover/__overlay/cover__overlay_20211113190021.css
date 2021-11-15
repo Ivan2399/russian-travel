@@ -1,0 +1,13 @@
+.cover__overlay {
+  display: flex;
+  width: 1184px;
+  height: 740px;
+  min-width: 320px;
+  min-height: 200px;
+  background-image: url(../../../images/__cover/__background.png);
+  background-size: cover;
+  background-color: rgb(0, 0, 0);
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

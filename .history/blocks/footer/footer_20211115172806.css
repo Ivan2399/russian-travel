@@ -1,0 +1,14 @@
+.footer {
+  width: 97%;
+  display: grid;
+  max-width: 1184px;
+  margin: auto;
+  padding-bottom: 24px;
+  grid-template-areas: "link link link link link author";
+}
+
+@media screen and (min-width: 300px) and (max-width: 400px) {
+  .footer {
+      display: grid;
+  }
+}

@@ -1,0 +1,4 @@
+.places__card {
+  display: grid;
+  grid-template-areas: "title title" "image link text";
+}

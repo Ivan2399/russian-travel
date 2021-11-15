@@ -1,0 +1,9 @@
+.intro__title {
+  margin-top:25%;
+  max-width: 690px;
+  font-style: normal;
+  font-weight: 900;
+  font-size: calc(32px + 22 * (100vw / 1280));
+  line-height: calc(35px + 23 * (100vw / 1280));
+}
+

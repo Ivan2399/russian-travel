@@ -1,0 +1,4 @@
+.footer{
+    display: grid;
+    grid-template-areas: "link link link link link author";
+}

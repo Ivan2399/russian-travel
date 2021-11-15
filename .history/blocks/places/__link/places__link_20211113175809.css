@@ -1,0 +1,4 @@
+.places__link{
+    grid-area: link;
+    padding-bottom: 40px;
+}

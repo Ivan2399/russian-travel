@@ -1,0 +1,7 @@
+@media screen and (min-width: 750px) and (max-width:770px) {
+  .lead__main-illustration_device_tablet {
+      width:768px;
+      height:480px;
+  }
+}
+

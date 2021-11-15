@@ -1,0 +1,13 @@
+.cover__overlay {
+  width: 100%;
+  height: 615px;
+  max-height: 100%;
+  object-fit: cover;
+  background-image: url(../../../images/__lead/kalegin-michail-179870-unsplash.png);
+  display: flex;
+  background-size: cover;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.8;
+}

@@ -1,0 +1,6 @@
+.footer{
+    display: grid;
+    max-width: 1184px;
+    margin: auto;
+    grid-template-areas: "link link link link link author";
+}

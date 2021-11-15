@@ -1,0 +1,6 @@
+.lead__way-illustration{
+    position: absolute;
+    flex-wrap: wrap;
+    max-width: 984px;
+    margin: auto;
+}

@@ -1,0 +1,8 @@
+.places__text-container {
+  max-width: 484px;
+}
+@media screen and (min-width:330px) and (max-width:1280px) {
+    .places__text-container{
+        max-width: 288px;
+    }
+}

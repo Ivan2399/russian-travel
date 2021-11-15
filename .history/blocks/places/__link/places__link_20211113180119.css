@@ -1,0 +1,12 @@
+.places__link {
+    display: flex;
+  grid-area: link;
+  padding-bottom: 40px;
+  max-width: 456px;
+  max-height: 22px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+}

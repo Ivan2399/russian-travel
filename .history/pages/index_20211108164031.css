@@ -1,0 +1,18 @@
+@import url(../blocks/root/root.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__links/header__links.css);
+
+/* links */
+
+@import url(../blocks/links/_place/links_place_header.css);
+
+/* title */
+
+@import url(../blocks/title/section-title.css);
+
+/* lead */
+
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/lead__main-illustration/lead__main-illustration.css);

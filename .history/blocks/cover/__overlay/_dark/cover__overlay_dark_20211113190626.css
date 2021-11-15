@@ -1,0 +1,4 @@
+.cover__overlay_dark{
+    background-color: black;
+    z-index: 5;
+}

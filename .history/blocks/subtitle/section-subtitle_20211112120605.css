@@ -1,0 +1,9 @@
+@media (min-width: 320px) {
+  .section-subtitle {
+    font-style: normal;
+    font-weight: normal;
+    line-height: 36px;
+    text-align: center;
+    font-size: calc(16px + (14 + 14 * 0.7) * ((100vw - 320px) / 1280));
+  }
+}

@@ -1,0 +1,8 @@
+.places__text-container {
+  max-width: 484px;
+}
+@media screen {
+    .places__text-container{
+        max-width: 288px;
+    }
+}

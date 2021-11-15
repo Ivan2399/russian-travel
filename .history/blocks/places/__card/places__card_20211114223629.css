@@ -1,0 +1,11 @@
+.places__card {
+  display: grid;
+  margin: 90px 0 0 0;
+}
+@media screen and (max-width:768px) and (min-width:310px) {
+  .places__card{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}

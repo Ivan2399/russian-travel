@@ -1,0 +1,45 @@
+@import url(../blocks/root/root.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__links/header__links.css);
+
+/* links */
+
+@import url(../blocks/links/_place/links_place_header.css);
+
+/* title */
+
+@import url(../blocks/title/section-title.css);
+
+/* subtitle */
+
+@import url(../blocks/subtitle/section-subtitle.css);
+
+/* lead */
+
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/lead__main-illustration/lead__main-illustration.css);
+@import url(../blocks/lead/lead__way-illustration/lead__way-illustration.css);
+
+/* intro */
+
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__main-text/intro__main-text.css);
+@import url(../blocks/intro/__list/intro__list.css);
+
+
+/* fonts */
+
+@font-face {
+  font-family: "Inter";
+  src: url(https://pictures.s3.yandex.net/frontend-developer/responsive/Inter-Regular.woff);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url(https://pictures.s3.yandex.net/frontend-developer/responsive/Inter-Bold.woff2);
+  font-weight: bold;
+}

@@ -1,0 +1,6 @@
+.lead__main-illustration{
+    display: grid;
+    flex-wrap: wrap;
+    max-width: 984px;
+    margin: auto;
+}

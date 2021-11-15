@@ -1,0 +1,10 @@
+.links_place_header {
+  text-align: right;
+  text-decoration: none;
+  color: #ffff;
+  padding-left: 18px;
+}
+.links_place_header:hover{
+  color: #FFFFFF;
+    text-decoration: none;
+}

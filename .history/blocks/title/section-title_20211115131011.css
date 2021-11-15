@@ -1,0 +1,11 @@
+.section-title {
+  display: flex;
+  max-width: 720px;
+  min-width: none;
+  margin: auto;
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: calc(40px + 56 * (100vw / 1280));
+  line-height: calc(44px + 56 * (100vw / 1280));
+}

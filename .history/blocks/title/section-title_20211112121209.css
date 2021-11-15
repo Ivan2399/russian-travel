@@ -1,0 +1,12 @@
+@media screen and (min-width: 320px) {
+  .section-title {
+    display: flex;
+    max-width: 720px;
+    min-width: 320px;
+    margin: auto;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: calc(40px + (56 + 56 * 0.7) * ((100vw - 320px) / 1280));
+  }
+}

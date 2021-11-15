@@ -1,0 +1,7 @@
+.lead__main-illustration{
+    display: block;
+    position: relative;
+    flex-wrap: wrap;
+    max-width: 984px;
+    margin: auto;
+}

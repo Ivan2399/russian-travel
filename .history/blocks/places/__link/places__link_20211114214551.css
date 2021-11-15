@@ -1,0 +1,20 @@
+.places__link {
+  
+  display: flex;
+  align-items: flex-end;
+  max-width: 100%;
+  max-height: 100%;
+  padding-bottom: 40px;
+
+  text-decoration: none;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #FFFFFF;
+}
+.places__link:hover{
+  text-decoration: underline;
+}

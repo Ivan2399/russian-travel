@@ -1,0 +1,17 @@
+.lead__main-illustration {
+  width: 100%;
+  height: calc(200px + 415 * (100vw / 1280));
+  max-height: 615px;
+  object-fit: cover;
+  background-image: url(../../../images/__lead/kalegin-michail-179870-unsplash.png);
+  display: flex;
+  background-size: cover;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+@media screen and (min-width: 320px) and (max-width:750px) {
+  .lead__main-illustration {
+    max-height: 200px;
+  }
+}

@@ -1,0 +1,7 @@
+.lead__main-illustration{
+    display: block;
+    position: relative;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+}

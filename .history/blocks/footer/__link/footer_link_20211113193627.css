@@ -1,0 +1,15 @@
+.footer__link {
+  grid-area: link;
+
+  text-decoration: none;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  color: #FFFFFF;
+}
+.footer__link:hover {
+  grid-area: link;
+  text-decoration: underline;
+}

@@ -1,0 +1,15 @@
+.places__card {
+  display: grid;
+  grid-template-columns: repeat(auto-fill 2, minmax(320px, 100%));
+  margin: 90px 0 0 0;
+}
+/* @media screen and (max-width:500px) and (min-width:310px) {
+  .places__card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+  }
+} */
