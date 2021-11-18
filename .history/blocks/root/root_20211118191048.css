@@ -1,0 +1,16 @@
+p,h3,h4,li,ul {
+  font-family: "Inter", "Arial", sans-serif;
+  font-weight: 100;
+  margin: 0;
+  padding: 0;
+};
+h1,h2 {
+  font-family: "Inter", "Arial", sans-serif;
+  font-weight: 900;
+  margin: 0;
+  padding: 0;
+}
+.root {
+  margin: 0;
+  padding: 0;
+}

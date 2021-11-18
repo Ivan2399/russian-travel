@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: normal;
+  src: url(/fonts/__inter/Inter-VariableFont_slnt\wght.ttf) format("truetype");
+  
+  src: url(/fonts/__inter/static/Inter-Bold.ttf) format("truetype");
+  src: url(/fonts/__inter/static/Inter-ExtraBold.ttf) format("truetype");
+  
+  
+  src: url(/fonts/__inter/static/Inter-Regular.ttf) format("truetype");
+  src: url(/fonts/__inter/static/Inter-SemiBold.ttf) format("truetype");
+  
+  font-style: normal;
+  font-weight: normal;
+}
+

@@ -1,0 +1,15 @@
+p,
+h1,
+h2,
+h3,
+h4,
+li,
+ul {
+  font-family: "Inter Inter-Bold Inter-Regular";
+  margin: 0;
+  padding: 0;
+}
+.root {
+  margin: 0;
+  padding: 0;
+}

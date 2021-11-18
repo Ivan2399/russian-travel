@@ -1,0 +1,17 @@
+p,
+h1,
+h2,
+h3,
+h4,
+li,
+ul {
+  /* font-family: "Inter";
+  font-style: normal;
+  font-weight: normal;
+  margin: 0;
+  padding: 0; */
+}
+.root {
+  margin: 0;
+  padding: 0;
+}

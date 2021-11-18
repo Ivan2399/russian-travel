@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Inter";
+  src: url(../fonts/__inter/Inter-VariableFont_slnt\wght.ttf) format("truetype");
+  src: url(../fonts/__inter/static/Inter-Black.ttf) format("truetype");
+  src: url(../fonts/__inter/static/Inter-Bold.ttf) format("truetype");
+  src: url(../fonts/__inter/static/Inter-ExtraBold.ttf) format("truetype");
+  src: url(../fonts/__inter/static/Inter-ExtraLight.ttf) format("truetype");
+  src: url(../fonts/__inter/static/Inter-Light.ttf) format("truetype");
+  src: url(../fonts/__inter/static/Inter-Medium.ttf) format("truetype");
+  src: url(../fonts/__inter/static/Inter-Regular.ttf) format("truetype");
+  src: url(../fonts/__inter/static/Inter-SemiBold.ttf) format("truetype");
+  src: url(../fonts/__inter/static/Inter-Thin.ttf) format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url(../fonts/__roboto/Roboto-Black.ttf) format("truetype");
+  src: url(../fonts/__roboto/Roboto-BlackItalic.ttf) format("truetype");
+  src: url(../fonts/__roboto/Roboto-Bold.ttf) format("truetype");
+  src: url(../fonts/__roboto/Roboto-BoldItalic.ttf) format("truetype");
+  src: url(../fonts/__roboto/Roboto-Italic.ttf) format("truetype");
+  src: url(../fonts/__roboto/Roboto-Light.ttf) format("truetype");
+  src: url(../fonts/__roboto/Roboto-LightItalic.ttf) format("truetype");
+  src: url(../fonts/__roboto/Roboto-Medium.ttf) format("truetype");
+  src: url(../fonts/__roboto/Roboto-MediumItalic.ttf) format("truetype");
+  src: url(../fonts/__roboto/Roboto-Regular.ttf) format("truetype");
+  src: url(../fonts/__roboto/Roboto-Thin.ttf) format("truetype");
+  src: url(../fonts/__roboto/Roboto-ThinItalic.ttf) format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
