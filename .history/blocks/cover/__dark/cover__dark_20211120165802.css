@@ -1,0 +1,8 @@
+.cover__dark{
+    background-color: black;
+    opacity: 0.8;
+}
+.cover__dark:hover{
+    opacity: 0.8;
+    
+  }

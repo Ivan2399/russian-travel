@@ -1,0 +1,14 @@
+.cover__subtitle:hover {
+  max-width: 360px;
+  font-size: calc(14px + 2 * (100vw / 1290));
+  line-height: calc(16px + 6 * (100vw / 1290));
+  text-align: center;
+  
+
+}
+@media screen and (min-width: 300px) and (max-width: 400px) {
+  .cover__subtitle {
+    font-size: 14px;
+    line-height: 16px;
+  }
+}

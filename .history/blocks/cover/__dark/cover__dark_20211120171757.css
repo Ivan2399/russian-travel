@@ -1,0 +1,9 @@
+.cover__dark{
+    background-color: rgba(0, 0, 0, 0.8);
+    width:1280px;
+    
+}
+.cover__dark:hover{
+    opacity: 0.8;
+    
+  }
