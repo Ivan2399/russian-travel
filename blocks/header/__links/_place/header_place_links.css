@@ -1,9 +1,0 @@
-.header_place_links {
-  text-align: right;
-  text-decoration: none;
-  color: #ffff;
-  padding-left: 18px;
-}
-.header_place_links:hover{
-  text-decoration: underline;
-}

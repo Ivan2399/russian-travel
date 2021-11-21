@@ -1,6 +1,0 @@
-.places{
-    display: grid;
-    /* grid-template-columns: repeat(auto-fit, minmax(320px, 100%)); */
-    max-width: 984px;
-    margin: auto;
-}
