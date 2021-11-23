@@ -1,0 +1,10 @@
+.places__text {
+  font-size: 18px;
+  line-height: 163%;
+}
+@media screen and (min-width: 300px) and (max-width: 400px) {
+  .places__text {
+    font-size: 16px;
+    line-height: 163%;
+  }
+}

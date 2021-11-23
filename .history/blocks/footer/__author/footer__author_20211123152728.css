@@ -1,0 +1,15 @@
+.footer__author {
+  grid-area: author;
+  margin: 16px 10px 0 0;
+  text-align: end;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 16px;
+}
+@media screen and (min-width:300px) and (max-width:400px){
+  .footer__author{
+    font-size: 14px;
+    line-height: 14px;
+  }  
+}

@@ -1,0 +1,31 @@
+.cover__overlay {
+  width: 100%;
+  object-fit: cover;
+  background-image: url(../../../images/__cover/__background.png);
+  display: flex;
+  background-size: cover;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  text-decoration: none;
+  color: white;
+}
+@media screen and (min-width: 900px) and (max-width: 1100px) {
+  .cover__overlay {
+    width: 1024px;
+    min-height: 640px;
+  }
+}
+@media screen and (min-width: 500px) and (max-width: 800px) {
+  .cover__overlay {
+    width: 768px;
+    height: 480px;
+  }
+}
+@media screen and (min-width: 250px) and (max-width: 400px) {
+  .cover__overlay {
+    width: 320px;
+    height: 200px;
+  }
+} ;
