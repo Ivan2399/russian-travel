@@ -1,0 +1,13 @@
+.places{
+    display: grid;
+    justify-content: center;
+    justify-items: stretch;
+    
+}
+@media screen and (min-width: 300px) and (max-width: 800px){
+    .places{
+      justify-self: center;
+      max-width: 320px;
+      margin: 0 0 32px 0;
+    }
+  }

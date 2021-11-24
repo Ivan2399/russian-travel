@@ -1,0 +1,15 @@
+.header__link_active {
+  
+}
+@media screen and (min-width:280px) and (max-width:450px) {
+  .header__link_active {
+    min-width: 22px;
+    min-height: 20px;
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
+.header__link_active:active{
+    text-decoration: underline;
+}
+

@@ -1,0 +1,16 @@
+.places__image {
+  max-width: 100%;
+  object-fit: cover;
+  justify-self: center;
+}
+@media screen and (min-width: 550px) and (max-width: 800px){
+  .places__image{
+    width: 340px;
+    height: 340px;
+  }
+}
+@media screen and (min-width: 300px) and (max-width: 767px){
+  .places__image{
+    margin: 0 0 32px 0;
+  }
+}

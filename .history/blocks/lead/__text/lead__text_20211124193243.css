@@ -1,0 +1,25 @@
+.lead__text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+
+  margin:8px 0 0 0 ;
+}
+@media screen and (min-width:767px) and (max-width:800px) {
+  .lead__text{
+    margin:8px 0 0 24px;
+  }
+}
+@media screen and (min-width:280px) and (max-width:767px){
+  .lead__text{
+    align-self: center;
+  }  
+}
+@media screen and (min-width:280px) and (max-width:767px){
+  .lead__text{
+    margin:8px 0 0 16px;
+  }
+}

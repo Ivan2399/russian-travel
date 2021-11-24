@@ -1,0 +1,10 @@
+.places__text-container {
+  max-width: 484px;
+  margin: 0;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .places__text-container{
+    justify-self: center;
+    max-width: 288px;
+  }
+}
