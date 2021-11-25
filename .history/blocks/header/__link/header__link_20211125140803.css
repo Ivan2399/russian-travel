@@ -1,0 +1,24 @@
+.header__link {
+  min-width: 30px;
+  min-height: 28px;
+  font-family: "Inter",Arial, Helvetica, sans-serif;
+  text-align: right;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  text-decoration: none;
+  color: #ffff;
+  padding-left: 18px;
+}
+.header__link:hover{
+  
+}
+@media screen and (min-width:280px) and (max-width:450px) {
+  .header__link {
+    min-width: 22px;
+    min-height: 20px;
+    font-size: 18px;
+    line-height: 20px;
+  }
+}

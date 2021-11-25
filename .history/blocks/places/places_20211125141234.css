@@ -1,0 +1,7 @@
+.places{
+    display: grid;
+    justify-content: center;
+    justify-items: stretch;
+    max-width: 984px;
+    
+}
