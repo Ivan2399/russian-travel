@@ -1,0 +1,20 @@
+.intro{
+    max-width: 984px;
+    margin: 92px auto;
+    display: flex;
+    flex-direction: column;
+}
+@media screen and (min-width:1000px) and (max-width:1100px) {
+    .intro{
+        max-width: 928px;
+    }
+    
+}
+@media screen and (min-width:720px) and (max-width:1000px) {
+    .intro{
+        max-width: 720px;
+        
+        margin: 64px 24px 0 0;
+    }
+    
+}

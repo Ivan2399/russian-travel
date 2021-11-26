@@ -8,13 +8,13 @@
     height: 225px;
   }
 }
-@media screen and (min-width: 730px) and (max-width: 960px) {
+@media screen and (min-width: 722px) and (max-width: 960px) {
   .photo-grid__item {
     width: 352px;
     height: 264px;
   }
 }
-@media screen and (min-width: 200px) and (max-width: 730px) {
+@media screen and (min-width: 200px) and (max-width: 722px) {
   .photo-grid__item {
     width: 288px;
     height: 216px;

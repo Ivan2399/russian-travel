@@ -11,13 +11,13 @@
     margin: 0 48px 0 48px;
   }
 }
-@media screen and (min-width: 400px) and (max-width: 780px){
+@media screen and (min-width: 420px) and (max-width: 780px){
   .footer{
     max-width: 928px;
     margin: 0 24px 0 24px;
   }
 }
-@media screen and (min-width: 250px) and (max-width: 400px) {
+@media screen and (min-width: 250px) and (max-width: 420px) {
   .footer {
     display: flex;
     flex-direction: column;
